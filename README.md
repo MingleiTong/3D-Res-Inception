@@ -19,5 +19,5 @@ RI_main.py
 The main script set the parameters(batch_size, number of epochs...), path of data and saved model.
 
 # Result  
-![](https://github.com/MingleiTong/3D-Res-Inception/result.png)
+![](https://github.com/MingleiTong/3D-Res-Inception/blob/master/result.png)
  
