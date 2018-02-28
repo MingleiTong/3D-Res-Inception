@@ -18,6 +18,6 @@ The script is to build a two branch 3D Res-Inception network. One branch input r
 RI_main.py  
 The main script set the parameters(batch_size, number of epochs...), path of data and saved model.
 
-# Result    
-
+# Result  
+(https://github.com/MingleiTong/3D-Res-Inception/result.png)
  
